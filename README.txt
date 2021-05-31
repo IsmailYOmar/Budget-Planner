@@ -17,6 +17,7 @@ This document contains the following sections:
 3.  Installing the Software
 4.  Changes made in version 2.0 based on version 1.0 feedback
 5.  New features and other changes
+6.  Link to git repo
 
 ------------------------------------------------------------------
 ------------------------------------------------------------------
@@ -99,4 +100,10 @@ situation better and budget properly.
 
 ------------------------------------------------------------------
 ------------------------------------------------------------------
+6.  Link to git repo
+------------------------------------------------------------------
 
+https://github.com/IsmailYOmar/Budget-Planner.git
+
+------------------------------------------------------------------
+------------------------------------------------------------------
